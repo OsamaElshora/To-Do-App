@@ -1,6 +1,8 @@
 # To-Do-App
 with swift 
 ------
+Using MVC Architecture 
+
 Using CURD (Create, Update, Retrieve, Delete) and make coreData on the project
 
 
